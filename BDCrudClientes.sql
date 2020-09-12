@@ -29,7 +29,7 @@ values ('ESZR730527','Rosa Espinoza Zazueta',47,3)
 go
 
 insert into Clientes(RFC,Nombre,Edad,IdCiudad) 	
-values ('IRRD600114','Daniel Iribe Romero','60','3')
+values ('IRRD600114','Daniel Iribe Romero',60,3)
 go 
 
 select * from Clientes
